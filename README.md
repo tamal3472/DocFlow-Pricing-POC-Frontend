@@ -30,3 +30,4 @@
 Server should now up and running at: http://localhost:4040/
 
 ## **Graphical presentation of this application**
+![poc frontend](https://user-images.githubusercontent.com/44064679/185669099-77a892f9-5a73-46df-97e5-794ef8d621d9.gif)
